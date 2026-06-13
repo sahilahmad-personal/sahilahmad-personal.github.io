@@ -3,6 +3,9 @@ title: "What Is Identity Governance — And Why I'm Learning SailPoint"
 date: 2026-06-10 10:00:00 +0530
 categories: [IAM, SailPoint]
 tags: [sailpoint, iam, iga, identity-governance, cybersecurity, career]
+image:
+  path: /assets/img/posts/identity-governance/cover.jpg
+  alt: "Identity Governance and SailPoint"
 ---
 
 ## The Problem Nobody Talks About
