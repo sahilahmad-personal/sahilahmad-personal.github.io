@@ -119,10 +119,6 @@ paginate: 10
 # Base URL
 baseurl: ""
 
-# Footer customization
-copyright: "© 2026 Sahil Ahmad. All rights reserved."
-theme_credit: false
-
 # ------------ Do not modify below ------------
 
 kramdown:
