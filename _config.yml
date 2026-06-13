@@ -25,14 +25,14 @@ github:
   username: sahilahmad-personal
 
 twitter:
-  username: your_twitter_username
+  username: sahilahmad_dev
 
 social:
   name: Sahil Ahmad
-  email: your@email.com
+  email: sahil.ahmad.dev@gmail.com
   links:
     - https://github.com/sahilahmad-personal
-    - https://linkedin.com/in/yourprofile
+    - https://www.linkedin.com/in/sahil-ahmad-dev
 
 # Site Verification Settings
 webmaster_verifications:
@@ -117,7 +117,7 @@ paginate: 10
 # Base URL
 baseurl: ""
 
-# ------------ Do not modify below ------------ 
+# ------------ Do not modify below ------------
 
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
