@@ -71,9 +71,9 @@ Linux · Python · Bash · SQL · REST APIs · Git · Docker
 ## Connect With Me
 
 - 🐙 **GitHub:** [github.com/sahilahmad-personal](https://github.com/sahilahmad-personal)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- 📧 **Email:** your@email.com
+- 💼 **LinkedIn:** [linkedin.com/in/sahil-ahmad-dev](https://www.linkedin.com/in/sahil-ahmad-dev)
+- 🐦 **Twitter:** [@sahilahmad_dev](https://twitter.com/sahilahmad_dev) *(coming soon)*
+- 📧 **Email:** [sahil.ahmad.dev@gmail.com](mailto:sahil.ahmad.dev@gmail.com)
 
 ---
 
@@ -85,9 +85,10 @@ Linux · Python · Bash · SQL · REST APIs · Git · Docker
 
 ## Timeline
 
-- **2024** — Started cybersecurity journey
-- **2024** — SailPoint ISC internship begins
-- **2024** — Built this blog
+- **2024** — Completed BCA
+- **2026** — Pursuing MCA
+- **2026** — SailPoint ISC internship begins
+- **2026** — Started this blog
 - **More to come...**
 
 ---
